@@ -1,1 +1,1 @@
-[Resume](https://avi4h.github.io/avi4h)
+[Resume](https://avi4h.netlify.app/))
