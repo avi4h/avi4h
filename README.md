@@ -1,1 +1,1 @@
-(https://www.avi4h.github.io)[Resume]
+[Resume](https://avi4h.github.io/avi4h)
